@@ -11,6 +11,11 @@ public class GitTesting {
 	private void name() {
 		System.out.println("Suriya");
 	}
+	
+	private void phone() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 		
 		GitTesting GT = new GitTesting();
